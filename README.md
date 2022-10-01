@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **node Js, PHP**
 
-- 👨‍💻 All of my projects are available at [https://monsij-deb.github.io/portfoliomd.github.io/](https://monsij-deb.github.io/portfoliomd.github.io/)
+- 👨‍💻 My Portfolio [https://monsij-deb.github.io/portfoliomd.github.io/](https://monsij-deb.github.io/portfoliomd.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **md.official101@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Monsij-Deb/Profile-Info/blob/cb2622d230fa7e1125826954631baa5117c03dd1/Resume-Monsij-Deb.pdf](https://github.com/Monsij-Deb/Profile-Info/blob/cb2622d230fa7e1125826954631baa5117c03dd1/Resume-Monsij-Deb.pdf)
+- 📄 My CV [https://github.com/Monsij-Deb/Profile-Info/blob/cb2622d230fa7e1125826954631baa5117c03dd1/Resume-Monsij-Deb.pdf](https://github.com/Monsij-Deb/Profile-Info/blob/cb2622d230fa7e1125826954631baa5117c03dd1/Resume-Monsij-Deb.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
