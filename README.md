@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **md.official101@gmail.com**
 
-- 📄 My CV [https://github.com/Monsij-Deb/Profile-Info/blob/55177df4ad41cb323fbcaa54332b6592e8c5f8cb/Resume%20Monsij_Deb.pdf)
+- 📄 My CV [https://github.com/Monsij-Deb/Profile-Info/blob/a6ab04efbb15489c96c3020f4559d7e52eebfc04/Resume(MD).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
